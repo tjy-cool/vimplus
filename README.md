@@ -12,13 +12,13 @@ An automatic configuration program for vim
 - 安装[HomeBrew][3]
  
     ```bash
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/tjy-cool/vimplus/master/install.sh)"
     ```
 
 - 安装vimplus
 
     ```bash
-    git clone https://github.com/chxuan/vimplus.git ~/.vimplus
+    git clone https://github.com/tjy-cool/vimplus.git ~/.vimplus
     cd ~/.vimplus
     ./install.sh
     ```
@@ -32,7 +32,7 @@ An automatic configuration program for vim
 - 安装vimplus(建议在普通用户下安装)
 
     ```bash
-    git clone https://github.com/chxuan/vimplus.git ~/.vimplus
+    git clone https://github.com/tjy-cool/vimplus.git ~/.vimplus
     cd ~/.vimplus
     ./install.sh
     ```
@@ -46,7 +46,7 @@ An automatic configuration program for vim
 - 安装vimplus(建议在普通用户下安装)
 
     ```bash
-    git clone https://github.com/chxuan/vimplus.git ~/.vimplus
+    git clone https://github.com/tjy-cool/vimplus.git ~/.vimplus
     cd ~/.vimplus
     ./install.sh
     ```
@@ -56,7 +56,7 @@ An automatic configuration program for vim
 - 安装vimplus
 
     ```bash
-    git clone https://github.com/chxuan/vimplus.git ~/.vimplus
+    git clone https://github.com/tjy-cool/vimplus.git ~/.vimplus
     cd ~/.vimplus
     ./install.sh
     ```
