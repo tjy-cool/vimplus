@@ -191,8 +191,8 @@ autocmd BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | execute "
 
 " 主题
 set background=dark
-let g:onedark_termcolors=256
-colorscheme onedark
+"  "let g:onedark_termcolors=256
+colorscheme monokai
 
 " airline
 let g:airline_theme="onedark"
