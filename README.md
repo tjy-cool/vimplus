@@ -185,7 +185,7 @@ An automatic configuration program for vim
 
     在Archlinux下可以试着使用pkgfile命令搜索依赖的文件具体在什么包内，目前找到的包含libtinfo.so.5的包是ncurses5-compat-libs(AUR)或者32位的lib32-ncurses5-compat-libs(AUR)，安装后即可正常使用。
 
-- **在安装完成后打开vim遇到ycm提示错误代码为-6时，可以用下面的方法进行解决
+- **在安装完成后打开vim遇到ycm提示错误代码为-6时，可以用下面的方法进行解决**
     
 ```sh
     cd ~/.vim/plugged/YouCompleteMe
